@@ -1,10 +1,8 @@
 /*
-****************************************
-*Simetrik farklý 1. türev              *
+****************************************              
 *f'(xi)=[f(xi+h)-f(xi-h)]/2h + O(h^2)  *
 *O(h^2) is error.                      *
-*h^2 azaldýkça hatanýn azalacaðý açýkça*
-*görülmektedir.                        *
+*Decreasing h^2 will decrease the error*
 ****************************************
 */
 #include<stdio.h>
