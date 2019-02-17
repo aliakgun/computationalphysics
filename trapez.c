@@ -14,7 +14,7 @@
 #                                                    #
 #points on the f(x) function can be represented as:  #
 #                                                    #
-#x0=a, xi=a+ih, xn=b                                 #
+#x0=a, xi=a+ih(i=0,1,2,3,...,n), xn=b                #
 #                                                    #
 #b=Nh+a !!!                                          #
 #=================                                   #
